@@ -1,0 +1,36 @@
+Listado de rutas de carpetas para el volumen Windows8_OS
+El n£mero de serie del volumen es C470-4AB9
+C:.
+ÀÄÄÄtutorial_maven_jar
+    ÃÄÄÄsrc
+    ³   ÃÄÄÄmain
+    ³   ³   ÀÄÄÄjava
+    ³   ³       ÀÄÄÄehu
+    ³   ³           ÀÄÄÄes
+    ³   ³               ÀÄÄÄcs19
+    ³   ÀÄÄÄtest
+    ³       ÀÄÄÄjava
+    ³           ÀÄÄÄehu
+    ³               ÀÄÄÄes
+    ³                   ÀÄÄÄcs19
+    ÀÄÄÄtarget
+        ÃÄÄÄclasses
+        ³   ÀÄÄÄehu
+        ³       ÀÄÄÄes
+        ³           ÀÄÄÄcs19
+        ÃÄÄÄgenerated-sources
+        ³   ÀÄÄÄannotations
+        ÃÄÄÄgenerated-test-sources
+        ³   ÀÄÄÄtest-annotations
+        ÃÄÄÄmaven-archiver
+        ÃÄÄÄmaven-status
+        ³   ÀÄÄÄmaven-compiler-plugin
+        ³       ÃÄÄÄcompile
+        ³       ³   ÀÄÄÄdefault-compile
+        ³       ÀÄÄÄtestCompile
+        ³           ÀÄÄÄdefault-testCompile
+        ÃÄÄÄsurefire-reports
+        ÀÄÄÄtest-classes
+            ÀÄÄÄehu
+                ÀÄÄÄes
+                    ÀÄÄÄcs19
